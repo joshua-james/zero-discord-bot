@@ -1,0 +1,13 @@
+{
+    "EMAIL" : "MTc0MzI5NDg4ODI4NTMwNjg4.CjOe-g.cfSxxUXhMOLSdtA_foWa7TdX49g",
+    "LOGIN_TYPE" : "token",
+    "OWNER" : "148483298878947328",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+        "."
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator"
+    }
+}
